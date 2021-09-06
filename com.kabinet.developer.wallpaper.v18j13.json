@@ -4,7 +4,7 @@
 "json_popup_wait" : "Server Ready - v18j13",
   
 "mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -22,8 +22,8 @@
 
 "inter_count" : 2,
 
-"enable_strap" : true,
-"enable_strap_Splah" : true,
+"enable_strap" : false,
+"enable_strap_Splah" : false,
 
 "ads_on_exit_dialog" : true,
 
@@ -52,7 +52,7 @@
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
 "unity_id" : 4045251,
-"unity_test" : true,
+"unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
